@@ -14,7 +14,7 @@ const SqueezePage = () => {
   const [success, setSuccess] = useState(false);
 
   // Webinar replay video URL
-  const webinarVideoUrl = 'https://youtu.be/a1Whx_5ApgE';
+  const webinarVideoUrl = 'https://youtu.be/a1Whx_5ApgE?si=Fozv1tBsJ9-5zzMY';
 
   const handleSubmit = async (e) => {
     e.preventDefault();
